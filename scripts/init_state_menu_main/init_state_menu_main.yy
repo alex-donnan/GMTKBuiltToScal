@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_state_menu_main",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_state_menu_main",
+  "parent":{
+    "name":"States",
+    "path":"folders/Scripts/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

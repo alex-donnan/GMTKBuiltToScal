@@ -1,0 +1,1 @@
+image_speed = -sign(vx) * 8 / room_speed;
